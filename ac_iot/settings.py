@@ -24,7 +24,7 @@ SECRET_KEY = 'w+1aao+qhas+pcat^2advnik=tq9t5-aqa*q3o*+-py5i65b58'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://pure-fortress-90926.herokuapp.com/']
+ALLOWED_HOSTS = ['pure-fortress-90926.herokuapp.com/']
 
 
 # Application definition
